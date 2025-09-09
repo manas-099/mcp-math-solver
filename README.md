@@ -91,14 +91,5 @@ mcp-math-solver/
 - Keep your `.env` file private and **never commit it** to version control.
 - The project is extensible — you can easily add new mathematical functions to `MathServer.py`.
 
----
 
-## 🤝 Contributing
 
-Pull requests and suggestions are welcome! If you’d like to contribute, feel free to fork the repo and submit a PR.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
